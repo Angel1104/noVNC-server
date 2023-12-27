@@ -1,0 +1,6 @@
+# Dependencias instaladas por npm
+node_modules/
+
+.access.log
+.error.log
+.package-lock.json
